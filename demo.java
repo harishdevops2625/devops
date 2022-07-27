@@ -5,6 +5,14 @@ class main
       s.o.print("Main branch")
     } 
   }
+=======
+{
+  public static void main(...) 
+  { 
+    s.o.print("Devops branch") 
+  }
+}
+>>>>>>> devops
 
 class Demo
   {
