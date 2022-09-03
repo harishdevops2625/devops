@@ -1,2 +1,2 @@
-This is demo repository for the purpose of practice
-Created by harish
+I am practicing git for interviews
+wish me good luck
