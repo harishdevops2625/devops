@@ -1,1 +1,12 @@
-This file should normally contain, c-code but i dont know to write code in c-language thats why i am typing this message
+Add()
+	a+b
+Sub()
+	a-b
+
+dflkdgllknd\
+		jglkjfgjlkjlgkjg\[jgflkgggfdgjgglg
+		]glf
+		'p
+		;
+		g;fgk[g'gkdfgg;
+		g]l
