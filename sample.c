@@ -1,7 +1,4 @@
-Add()
-	a+b
-Sub()
-	a-b
+
 
 dflkdgllknd\
 		jglkjfgjlkjlgkjg\[jgflkgggfdgjgglg
